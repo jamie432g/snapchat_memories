@@ -3,6 +3,7 @@ Extract snapchat memories onto PC
 
 ## Prerequisites
 Python
+
 Requests (pip install requests)
 
 ## Get memories from snapchat
